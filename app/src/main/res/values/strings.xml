@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Apptutoria3</string>
+    <string name="titulo">Calcular Conversion Moneda</string>
+    <string name="titulotexto">Digite Dolar</string>
+    <string name="resultado">Valor en Pesos</string>
+    <string name="calcbtn">Calcular</string>
+</resources>
